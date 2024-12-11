@@ -1,0 +1,10 @@
+randSeed 123
+populationSizeN 100
+stringSizeN 50
+probApplyCrossover 0.6
+probApplyMutation 1.0
+selectionMethod 0
+tournamentSizeK 2
+fitnessFunction 0
+terminateOnFailure 1
+failuresBeforeTermination 0
